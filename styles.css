@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: skyblue;
+}
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+h2{
+    color: red;
+}
+h4{
+    color: red;
+}
